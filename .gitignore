@@ -1,3 +1,9 @@
 /bootstrap/compiled.php
 .env.*.php
 .env.php
+/storage
+/vendor
+*.lock
+*.log
+*.bak
+

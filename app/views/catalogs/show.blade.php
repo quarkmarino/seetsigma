@@ -1,0 +1,1 @@
+/home/jorge/LARAVEL/CREATIVE/app/views/catalogs/show.blade.php
